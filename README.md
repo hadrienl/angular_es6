@@ -1,5 +1,7 @@
 # Angular ES6
 
+[![Join the chat at https://gitter.im/hadrienl/angular_es6](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hadrienl/angular_es6?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This example shows how to use ES6 with [AngularJS](https://angularjs.org/).
 
 The tools used are:
